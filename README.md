@@ -1,6 +1,8 @@
 ## Hello World 👋
 
-let's build a better future 🌱
+Building the next big thing 🌱
+
+El Psy Congroo~
 
 <!--
 **louiskwt/louiskwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
