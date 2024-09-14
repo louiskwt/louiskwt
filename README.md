@@ -1,6 +1,8 @@
 ## Hello World 👋
 
-Building the next big thing 🌱
+Building the my own project 🔭
+
+Solo-leveling as an engineer 🌱
 
 El Psy Congroo~
 
