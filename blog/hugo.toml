@@ -24,7 +24,3 @@ paginate=3 # articles per page
 
 # Main menu Items
 
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
