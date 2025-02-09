@@ -1,10 +1,10 @@
 ## Hello World 👋
 
-Building the my own project 🔭
+Currently working on my personal projects 🔭
 
-Solo-leveling as an engineer 🌱
+Solo-leveling ⚡ 
 
-El Psy Congroo~
+El Psy Congroo!
 
 <!--
 **louiskwt/louiskwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
